@@ -1,0 +1,6 @@
+[package]
+name = "tool-core93"
+version = "0.9.0"
+edition = "2021"
+
+[dependencies]
